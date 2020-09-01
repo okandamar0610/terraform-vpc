@@ -19,4 +19,4 @@ public_cidr3    = "172.34.3.0/24"
 private_cidr1   = "172.34.10.0/24"
 private_cidr2   = "172.34.11.0/24"
 private_cidr3   = "172.34.12.0/24"
-© 2020 GitHub, Inc.
+
